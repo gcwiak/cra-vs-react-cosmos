@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@react-mock/fetch": "^0.3.0",
     "react-cosmos": "^5.7.2"
   }
 }
