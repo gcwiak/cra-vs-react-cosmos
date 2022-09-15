@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "react-cosmos": "^5.6.7"
+    "react-cosmos": "^5.7.2"
   }
 }
